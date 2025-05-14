@@ -69,4 +69,4 @@ This Power BI dashboard provides actionable insights into sales performance, ite
 
 ## 📂 Screenshot
 
-![Blinkit Dashboard](./Blinkit%20Dashboard.png)
+![Blinkit Dashboard](https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
